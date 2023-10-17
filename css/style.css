@@ -1,0 +1,46 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;}
+
+#header{
+    width: 100%;
+    height: 10vh;
+}
+
+#img_producto{
+        padding: 5px;
+        height: 250px;
+        object-fit: contain;
+    }
+
+#img_producto_carrito{
+    object-fit: contain;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 70vh;
+    padding: 0 20px 0 20px;
+}
+
+#lista_productos{
+    justify-content: center;
+}
+
+#titulo_main{
+    padding: 15px;
+}
+
+#card:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
+    
+}
+

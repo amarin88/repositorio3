@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatillas",
+        "precio": 125,
+        "img": "img/ejemplo1.jpeg",
+        "cantidad": 1
+},
+{
+    "id": 2,
+    "nombre": "Mochila",
+    "precio": 50,
+    "img": "img/ejemplo2.jpeg",
+    "cantidad": 1
+},
+{
+    "id": 3,
+    "nombre": "Calleras",
+    "precio": 10,
+    "img": "img/ejemplo3.jpeg",
+    "cantidad": 1
+},
+{
+    "id": 4,
+    "nombre": "Rodilleras",
+    "precio": 40,
+    "img": "img/ejemplo4.jpg",
+    "cantidad": 1
+},
+{
+    "id": 5,
+    "nombre": "Cinturón",
+    "precio": 25,
+    "img": "img/ejemplo5.jpeg",
+    "cantidad": 1
+},
+{
+    "id": 6,
+    "nombre": "Remera",
+    "precio": 20,
+    "img": "img/ejemplo6.jpeg",
+    "cantidad": 1
+},
+{
+    "id": 7,
+    "nombre": "Short",
+    "precio": 20,
+    "img": "img/ejemplo7.jpeg",
+    "cantidad": 1
+},
+{
+    "id": 8,
+    "nombre": "Soga",
+    "precio": 10,
+    "img": "img/ejemplo8.jpg",
+    "cantidad": 1
+},
+{
+    "id": 9,
+    "nombre": "Muñequeras",
+    "precio": 5,
+    "img": "img/ejemplo9.jpg",
+    "cantidad": 1
+},
+{
+    "id": 10,
+    "nombre": "Medias",
+    "precio": 5,
+    "img": "img/ejemplo10.jpeg",
+    "cantidad": 1
+}
+]
